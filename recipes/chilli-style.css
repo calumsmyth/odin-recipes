@@ -1,12 +1,13 @@
 * {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
-}
-img { 
-text-align:center;
-}
+    color: white;}
 
 body {background-color: rgb(126, 40, 40);}
 
-h1 {text-align: center;
-
+img {text-align:center;
+    display: block;
+    margin: auto;
 }
+
+.des {text-align: center;}
+
+h1 {text-align: center;}
