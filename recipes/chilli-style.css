@@ -3,7 +3,7 @@
 
 body {background-color: rgb(126, 40, 40);}
 
-img {text-align:center;
+img {
     display: block;
     margin: auto;
 }
